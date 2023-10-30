@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.searchsug {
+  width: 50vw;
+}
+.searchimg {
+  height: 20px;
+  width: 20px;
+}
+.gimg {
+  height: 120px;
+  width: 400px;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 200px;
+}
+.searchbar {
+  width: 400px;
+}
+.search {
+  display: flex;
+}
+.shadowcont {
+  padding: 7px;
+  border-width: 0px;
+  border-radius: 9px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 2px 2px 2px 2px #888888;
+}
